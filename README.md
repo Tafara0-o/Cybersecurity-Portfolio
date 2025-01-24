@@ -14,7 +14,8 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 
 ## Projects
 - TryHackMe SOC Level 1
-- A SOC Lab using Adversary Emulation 
+- A SOC Lab using Adversary Emulation
+- Mosse CyberSecurity Institute Remote Internship
 
 ## Skills
 
