@@ -49,8 +49,8 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 
 ### Technical Support
 <div>
-    <img src="https://img.shields.io/badge/-Entra_ID-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Active_Directory_on_prem_Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server_2019-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Entra-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ## Certifications
