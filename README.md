@@ -13,7 +13,7 @@ Here, you'll find a collection of my projects that demonstrate my skills and ded
 As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my objective is to leverage my academic foundation and hands-on experience to protect and secure digital environments. I am eager to transition into a blue team role, where I can apply my skills in SIEM implementation, network traffic monitoring, and incident response. Additionally, I will be diving into red team activities and documenting my experiences to further enhance my understanding of offensive security. My goal is to continuously learn and develop innovative security strategies to mitigate risks and fortify defenses, ultimately contributing to a safer digital world.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,7 +49,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 
 ### Technical Support
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microsoft_Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft_Entra-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
@@ -60,5 +60,5 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 </div>
 
 ## Projects
-- TTryHackMe SOC Level 1
+- TryHackMe SOC Level 1
 - A SOC Lab using Adversary Emulation 
