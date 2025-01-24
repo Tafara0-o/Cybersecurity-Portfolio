@@ -3,7 +3,7 @@
 
 ## Brief Introduction
 
-Welcome to my GitHub portfolio! With a strong background in cybersecurity and a Bachelor's degree in Cybersecurity, I am passionate about safeguarding our digital world. My journey has equipped me with both academic knowledge and hands-on experience in various cybersecurity roles. I thrive on solving complex challenges and developing innovative security strategies.
+Welcome to my GitHub Cybersecurity portfolio! With a strong background in cybersecurity and a Bachelor's degree in Cybersecurity, I am passionate about safeguarding our digital world. My journey has equipped me with both academic knowledge and hands-on experience in various cybersecurity roles. I thrive on solving complex challenges and developing innovative security strategies.
 
 Here, you'll find a collection of my projects that demonstrate my skills and dedication to the field of cybersecurity. From creating robust security solutions to tackling intricate problems, each project reflects my commitment to making the digital world a safer place. Continuous learning and fostering a culture of security awareness are at the core of my work.
 
