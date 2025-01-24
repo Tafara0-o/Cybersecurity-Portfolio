@@ -38,9 +38,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-   <img src="https://img.shields.io/badge/-LimaCharlie-007ACC?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_365_Defender_XDR-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Broadcom_Symantec-FF0000?&style=for-the-badge&logo=Symantec&logoColor=white" /> 
 </div>
 
 ### SIEM
