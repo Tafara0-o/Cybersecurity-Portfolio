@@ -37,7 +37,6 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
     <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-SolarWinds-FFCC33?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
