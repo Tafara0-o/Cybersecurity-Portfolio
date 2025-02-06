@@ -33,8 +33,8 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 |-----------------------------------------------|----------------------------|
 | Privilege Escalation and Post Exploitation     | <a href="https://github.com/Tafara0-o/Identifying-MS17-010-EternalBlue-Vulnerability-Using-Metasploit">Metasploit Lab 1</a> <a href="https://github.com/Tafara0-o/Using-Metasploit-to-exploit-MS17-010">Metasploit Lab 2</a> <a href = "https://github.com/Tafara0-o/Meterpreter_GETSYSTEM_Exploit">Metasploit Lab 3|
 | Post Exploitation and Credential Extraction | <a href="https://github.com/Tafara0-o/Meterpreter_Mimikatz_CredDump">Mimikatz Lab 1</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Pivoting tehcnique and Post Expoitation        |<a href="https://github.com/Tafara0-o/Metasploit_Pivoting">Pivoting Lab|
+| Scripting using Powershell      | Insecure Windows Service Script|
  
 
 ## Tools
