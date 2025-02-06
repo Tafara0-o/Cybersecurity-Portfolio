@@ -19,7 +19,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 
 ## Skills
 
-## SOC and Blue Team
+## Blue Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
