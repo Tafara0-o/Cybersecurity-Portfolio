@@ -28,7 +28,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 
-## Red Team and Purple Team
+## Red Team 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Privilege Escalation and Post Exploitation     | <a href="https://github.com/Tafara0-o/Identifying-MS17-010-EternalBlue-Vulnerability-Using-Metasploit">Metasploit Lab 1</a> <a href="https://github.com/Tafara0-o/Using-Metasploit-to-exploit-MS17-010">Metasploit Lab 2</a> <a href = "https://github.com/Tafara0-o/Meterpreter_GETSYSTEM_Exploit">Metasploit Lab 3|
