@@ -31,11 +31,12 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ## Red Team and Purple Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Metasploit to identify a machine vulnerable to MS17-010       | <a href="https://github.com/Tafara0-o/Identifying-MS17-010-EternalBlue-Vulnerability-Using-Metasploit">Metasploit Lab 1</a>|
+| Metasploit to identify a machine vulnerable to MS17-010       | <a href="https://github.com/Tafara0-o/Identifying-MS17-010-EternalBlue-Vulnerability-Using-Metasploit">Metasploit Lab 1</a>
+<a href="https://github.com/Tafara0-o/Using-Metasploit-to-exploit-MS17-010">Metasploit Lab 2</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-
+https://github.com/Tafara0-o/Using-Metasploit-to-exploit-MS17-010
 
 ## Tools
 
