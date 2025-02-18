@@ -23,9 +23,9 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">So you want to be a SOC analyst Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="ttps://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
-| Security Automation                           |<a href="ttps://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
-| Incident Response Planning and Execution      |<a href="ttps://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
+| Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
+| Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
 
 
 ## Red Team 
