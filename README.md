@@ -59,6 +59,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
    <img src="https://img.shields.io/badge/-LimaCharlie-007ACC?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Technical Support
