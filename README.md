@@ -43,11 +43,14 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-00A859?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF0000?&style=for-the-badge&logo=Snort&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/-SolarWinds-FFCC33?&style=for-the-badge&logo=SolarWinds&logoColor=white" />
 </div>
+
+### Vulnerability Assessment and Management
+<img src="https://img.shields.io/badge/-OpenVAS-00A859?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Tenable-1F77B4?&style=for-the-badge&logo=Tenable&logoColor=white" />
 
 ### Endpoint
 <div>
