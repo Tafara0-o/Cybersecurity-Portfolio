@@ -19,11 +19,11 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ## Blue Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
-| Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
-| Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
-| Log Querying and Enrichment                   |<a href="https:https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentine</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentine</a>|
+| Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentine</a>|
+| Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentine</a>|
+| Log Querying and Enrichment                   |<a href="https:https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentine</a>|
 
 
 ## Red Team 
