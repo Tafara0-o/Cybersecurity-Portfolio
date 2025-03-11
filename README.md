@@ -23,7 +23,8 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentinel</a>|
 | Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentinel</a>|
 | Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentinel</a>|
-| Log Querying and Enrichment                   |<a href="https:https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentinel</a>|
+| Log Querying and Enrichment                   |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel">SOC-Lab-using-Microsoft-Sentinel</a>|
+| Vulnerability Management                      |<a href="https://github.com/Tafara0-o/Vulnerability-Management-With-Nessus-on-Azure">Vulnerability Management with Nessus</a>|
 
 
 ## Red Team 
@@ -49,7 +50,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ### Vulnerability Assessment and Management
 <div>
  <img src="https://img.shields.io/badge/-OpenVAS-00A859?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tenable-1F77B4?&style=for-the-badge&logo=Tenable&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nessus-1F77B4?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
 ### Endpoint
