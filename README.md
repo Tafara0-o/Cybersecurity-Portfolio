@@ -19,10 +19,11 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 ## Blue Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">So you want to be a SOC analyst Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
-| Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
-| Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Analyst-Lab-Walkthrough">SO you want to be a SOC analyst Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
+| Security Automation                           |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
+| Incident Response Planning and Execution      |<a href="https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
+| Log Querying and Enrichment                   |<a href="https:https://github.com/Tafara0-o/SOC-Lab-using-Microsoft-Sentinel</a>|
 
 
 ## Red Team 
