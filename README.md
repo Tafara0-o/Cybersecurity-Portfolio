@@ -46,8 +46,10 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 </div>
 
 ### Vulnerability Assessment and Management
-<img src="https://img.shields.io/badge/-OpenVAS-00A859?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
+<div>
+ <img src="https://img.shields.io/badge/-OpenVAS-00A859?&style=for-the-badge&logo=OpenVAS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Tenable-1F77B4?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
 
 ### Endpoint
 <div>
