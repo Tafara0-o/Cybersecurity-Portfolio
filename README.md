@@ -76,6 +76,7 @@ As a cybersecurity enthusiast with a Bachelor's degree in Cybersecurity, my obje
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2_CC-00A859?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--200%20Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-200 Badge"/>
 </div>
 
 
